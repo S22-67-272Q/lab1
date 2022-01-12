@@ -30,12 +30,12 @@ Part 1: Setup
 
 Please refer to one of the documents in this Git Repository depending on the Operating System you have.
 
-- If you have a Mac, please follow the instructions in **Mac_Lab1_setup.pdf**
-- If you have a Windows machine, please follow the instructions in **Windows_Lab1_setup.pdf**
+- If you have a Mac, please follow the instructions in **Mac\_Lab1\_setup.pdf**
+- If you have a Windows machine, please follow the instructions in **Windows\_Lab1\_setup.pdf**
+- Make sure you find your server name as well as the port to be used in **67272\_Servers\_Ports.pdf**. You will be using this server during this semester. So save it!
 
 *  *  *  *  *
-# <span class="mega-icon mega-icon-issue-opened"></span> Stop! <br/> 1. Show a TA/CA that you have completed this part by showing your localhost:3000rails splash page.
-
+# <span class="mega-icon mega-icon-issue-opened"></span> Stop! <br/> 1. Show a TA/CA that you have completed this part by showing your localhost:3000 rails splash page.
 *  *  *  *  *
 
 

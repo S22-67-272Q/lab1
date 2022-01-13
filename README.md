@@ -30,6 +30,8 @@ Part 1: Setup
 
 Please refer to one of the documents in this Git Repository depending on the Operating System you have.
 
+**Note** You will need to be connected to the CMUQ network to access the servers. Please refer to **CMUQ_VPN_HOWTO.pdf**.
+
 - If you have a Mac, please follow the instructions in **Mac\_Lab1\_setup.pdf**
 - If you have a Windows machine, please follow the instructions in **Windows\_Lab1\_setup.pdf**
 - Make sure you find your server name as well as the port to be used in **67272\_Servers\_Ports.pdf**. You will be using this server during this semester. So save it!
